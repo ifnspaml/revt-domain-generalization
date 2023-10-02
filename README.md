@@ -158,21 +158,21 @@ The weights can be obtained from the following links:
 
 | Model Type   | Train Dataset       | Method       | mIoU Cityscapes | mIoU BDD | Link                                                                                 |
 |--------------|---------------------|--------------|-----------------|----------|--------------------------------------------------------------------------------------|
-| Segformer B2 | GTA train split     | Baseline     | 41.73%          | 38.77%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {1,4,6} | 46.27%          | 43.29%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {4,5,6} | 45.55%          | 43.43%   | will be added in the final repository on github                                      |
-|              | SYNTHIA train split | Baseline     | 39.71%          | 29.76%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {1,4,6} | 40.91%          | 34.53%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {4,5,6} | 41.09%          | 35.18%   | will be added in the final repository on github                                      |
-| Segformer B3 | GTA train split     | Baseline     | 43.92%          | 42.96%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {1,4,6} | 48.33%          | 48.17%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {4,5,6} | 47.95%          | 48.26%   | will be added in the final repository on github                                      |
-|              | SYNTHIA train split | Baseline     | 42.43%          | 33.33%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {1,4,6} | 44.97%          | 38.65%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {4,5,6} | 45.26%          | 38.73%   | will be added in the final repository on github                                      |
+| Segformer B2 | GTA train split     | Baseline     | 41.73%          | 38.77%   | will be added soon                                      |
+|              |                     | ReVT {1,4,6} | 46.27%          | 43.29%   | will be added soon                                      |
+|              |                     | ReVT {4,5,6} | 45.55%          | 43.43%   | will be added soon                                      |
+|              | SYNTHIA train split | Baseline     | 39.71%          | 29.76%   | will be added soon                                      |
+|              |                     | ReVT {1,4,6} | 40.91%          | 34.53%   | will be added soon                                      |
+|              |                     | ReVT {4,5,6} | 41.09%          | 35.18%   | will be added soon                                      |
+| Segformer B3 | GTA train split     | Baseline     | 43.92%          | 42.96%   | will be added soon                                      |
+|              |                     | ReVT {1,4,6} | 48.33%          | 48.17%   | will be added soon                                      |
+|              |                     | ReVT {4,5,6} | 47.95%          | 48.26%   | will be added soon                                      |
+|              | SYNTHIA train split | Baseline     | 42.43%          | 33.33%   | will be added soon                                      |
+|              |                     | ReVT {1,4,6} | 44.97%          | 38.65%   | will be added soon                                      |
+|              |                     | ReVT {4,5,6} | 45.26%          | 38.73%   | will be added soon                                      |
 | Segformer B5 | GTA train split     | Baseline     | 45.31%          | 43.32%   | https://drive.google.com/drive/folders/1clnJptm58PrLEGooB2cyUpbdqU0_d8Oq?usp=sharing |
 |              |                     | ReVT {1,4,6} | 49.96%          | 48.01%   | https://drive.google.com/drive/folders/1MuvBVyNveIxs5v011AdIp_i4dp5HU4sd?usp=sharing |
 |              |                     | ReVT {4,5,6} | 49.55%          | 48.11%   | https://drive.google.com/drive/folders/1hhmNDwGRAd_F9Rb198L2pPaDn0rlf3Ec?usp=sharing |
-|              | SYNTHIA train split | Baseline     | 45.07%          | 35.19%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {1,4,6} | 46.28%          | 40.30%   | will be added in the final repository on github                                      |
-|              |                     | ReVT {4,5,6} | 45.08%          | 39.62%   | will be added in the final repository on github                                      |
+|              | SYNTHIA train split | Baseline     | 45.07%          | 35.19%   | will be added soon                                      |
+|              |                     | ReVT {1,4,6} | 46.28%          | 40.30%   | will be added soon                                      |
+|              |                     | ReVT {4,5,6} | 45.08%          | 39.62%   | will be added soon                                      |
